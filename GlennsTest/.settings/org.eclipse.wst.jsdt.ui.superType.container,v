@@ -1,0 +1,28 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2010.01.18.18.57.32;	author trmann01;	state Exp;
+branches;
+next	;
+deltatype	text;
+kopt	b;
+permissions	666;
+commitid	d4344b54af1a29f9;
+filename	org.eclipse.wst.jsdt.ui.superType.container;
+
+
+desc
+@@
+
+
+1.1
+log
+@*** empty log message ***
+@
+text
+@org.eclipse.wst.jsdt.launching.baseBrowserLibrary@

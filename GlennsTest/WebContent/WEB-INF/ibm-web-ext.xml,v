@@ -1,0 +1,42 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2010.01.18.18.57.32;	author trmann01;	state Exp;
+branches;
+next	;
+deltatype	text;
+kopt	kv;
+permissions	666;
+commitid	d4344b54af1a29f9;
+filename	ibm-web-ext.xml;
+
+
+desc
+@@
+
+
+1.1
+log
+@*** empty log message ***
+@
+text
+@<?xml version="1.0" encoding="UTF-8"?>
+<web-ext
+	xmlns="http://websphere.ibm.com/xml/ns/javaee"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://websphere.ibm.com/xml/ns/javaee http://websphere.ibm.com/xml/ns/javaee/ibm-web-ext_1_0.xsd"
+	version="1.0">
+
+	<reload-interval value="3"/>
+	<enable-directory-browsing value="true"/>
+	<enable-file-serving value="true"/>
+	<enable-reloading value="true"/>
+	<enable-serving-servlets-by-class-name value="true" />
+
+</web-ext>
+@

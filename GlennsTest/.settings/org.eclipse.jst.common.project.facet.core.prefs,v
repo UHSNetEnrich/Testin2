@@ -1,0 +1,32 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2010.01.18.18.57.32;	author trmann01;	state Exp;
+branches;
+next	;
+deltatype	text;
+kopt	kv;
+permissions	666;
+commitid	d4344b54af1a29f9;
+filename	org.eclipse.jst.common.project.facet.core.prefs;
+
+
+desc
+@@
+
+
+1.1
+log
+@*** empty log message ***
+@
+text
+@#Mon Jan 18 12:55:16 CST 2010
+classpath.helper/org.eclipse.jst.server.core.container\:\:com.ibm.ws.ast.st.runtime.runtimeTarget.v70\:\:was.base.v7/owners=jst.web\:2.5
+eclipse.preferences.version=1
+classpath.helper/org.eclipse.jdt.launching.JRE_CONTAINER\:\:org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType\:\:WebSphere\ Application\ Server\ v7.0\ JRE/owners=jst.java\:6.0
+@

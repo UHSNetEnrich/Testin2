@@ -1,0 +1,62 @@
+head	1.2;
+access;
+symbols;
+locks; strict;
+comment	@// @;
+
+
+1.2
+date	2010.01.18.19.03.25;	author bphiggin01;	state Exp;
+branches;
+next	1.1;
+deltatype	text;
+kopt	kv;
+permissions	666;
+commitid	d3ec4b54b07b2e7a;
+filename	TestClass.java;
+
+1.1
+date	2010.01.18.18.57.32;	author trmann01;	state Exp;
+branches;
+next	;
+deltatype	text;
+kopt	kv;
+permissions	666;
+commitid	d4344b54af1a29f9;
+filename	TestClass.java;
+
+
+desc
+@@
+
+
+1.2
+log
+@g
+@
+text
+@package com.uhs.test;
+
+public class TestClass {
+	private String test;
+
+	public String getTest() {
+		return test;
+	}
+
+	public void setTest(String test) {
+		this.test = test;
+	}
+	
+}
+@
+
+
+1.1
+log
+@*** empty log message ***
+@
+text
+@d5 9
+@
+
